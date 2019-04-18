@@ -1,1 +1,0 @@
-# vSAN-Host-Encryption-Status
